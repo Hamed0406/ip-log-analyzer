@@ -38,3 +38,9 @@ Thumbs.db
 # Shell history or env
 .env
 .bash_history
+
+logs/
+data/
+*.csv
+*.txt
+*.log

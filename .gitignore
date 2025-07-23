@@ -1,0 +1,40 @@
+# Ignore log files and temporary data
+*.log
+*.tmp
+*.bak
+*.swp
+*.csv
+
+# Ignore caches
+*.cache
+*.pid
+*.sock
+*~ 
+ip-dns-cache.txt
+ipinfo-ip-cache.txt
+.ip-dns-cache.txt
+.ipinfo-ip-cache.txt
+
+# System and editor files
+.DS_Store
+*.lock
+Thumbs.db
+
+# Ignore setup artifacts
+/tmp/
+*.tar.gz
+
+# Compiled and backup scripts
+*.pyc
+*.out
+*.old
+
+# JetBrains IDEs
+.idea/
+
+# VSCode
+.vscode/
+
+# Shell history or env
+.env
+.bash_history
